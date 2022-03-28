@@ -1,0 +1,91 @@
+* {
+    
+    background: #1F2937;
+
+}
+.gen, .ran{
+    padding: 10px 0 0 0;
+}
+
+h1 {
+ 
+
+font-family: Inter;
+font-size: 40px;
+font-style: Extrabold;
+font-weight: 800;
+line-height: 20px;
+letter-spacing: -0.025em;
+text-align: left;
+
+}
+p {
+    color: rgba(213, 212, 216, 1);
+    font: "lato";
+    font-size: 1.2rem;
+
+}
+
+.gen {
+    color: #fff;
+    justify-content: center;
+}
+.ran {
+    color: #50C878;
+}
+
+.btn {
+    height: 42px;
+    width: 223px;
+    left: 52px;
+    top: 287px;
+    border-radius: 6px;
+    padding: 9px, 17px, 9px, 15px;
+    color: #fff;
+    font-size: 1rem;
+    background-color: rgba(16, 185, 129, 1);
+    border: none;
+}    
+
+.fa-bolt {
+    background: transparent;
+    padding-right: 3px;;
+
+}
+
+.generate {
+    margin-top: 40px;
+}
+
+.output {
+    border-top:  1px solid rgba(47, 62, 83, 1);
+    margin-top: 75px;
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    padding: 20px 
+}
+span {
+    font-family: "Lato";
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:rgba(213, 212, 216, 1);
+    background: transparent;
+     
+}
+
+.output1,.output2,.output3,.output4 {
+    height: 39px;
+width: 700px;
+left: 52px;
+top: 399px;
+border-radius: 6px;
+margin-top: 20px;
+background: rgba(39, 53, 73, 1);
+
+
+}
